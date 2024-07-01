@@ -1,4 +1,4 @@
-male usb-A that connects to the computer and 4 female usb-A for other USBs. added some text and some images for aesthetic reasons.
+male usb-A that connects to the computer and 4 female usb-a for other USBs. there was female 2 usb-a in the jam; i added 2 more as suggested for a little extra challenge. i also added some text and some images for aesthetic reasons. used this project to learn pcb design and figure out easyeda.
 
 made by following [this jam](https://jams.hackclub.com/batch/usb-hub)
 images from freepik
